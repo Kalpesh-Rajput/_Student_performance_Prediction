@@ -25,3 +25,11 @@ The model is deployed using **Flask** to create an interactive web application w
 - **pandas** (for data manipulation)
 - **seaborn** (for data visualization)
 - **dill** (for serializing the model and saving/loading it efficiently)
+## Demo
+
+[Live Demo](\\YourComputerName\SharedFolder\YT_Study_Projects_Vscode\Student_Performance_Pred\templates\home.html)
+
+
+*Note: This link will only work for users with access to the shared network location.*
+
+

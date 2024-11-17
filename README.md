@@ -1,5 +1,5 @@
 # Student Performance Prediction Machine Learning Project
-
+![Alt Text](https://github.com/Kalpesh-Rajput/_Student_performance_Prediction/blob/main/notebook/student-performance__.jpg)
 ## Overview
 
 This project uses Machine Learning to predict student performance based on various academic features. The goal is to create a predictive model that can help educators and institutions identify students at risk of underperforming and take proactive measures to improve their outcomes.
